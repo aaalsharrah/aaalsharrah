@@ -54,7 +54,14 @@ Stay&Care is a completed academic project and is **not my current active work**.
 - [X](https://x.com/2alsharrah)
 - [Instagram](https://instagram.com/2alsharrah)
 
-## GitHub activity
+## Current projects & contributions
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaalsharrah&show_icons=true&theme=transparent&hide_border=true)
-![Top languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=aaalsharrah&layout=compact&theme=transparent&hide_border=true)
+My current engineering work centers on SafeClick at DetentLabs.
+
+- [DetentLabs on GitHub](https://github.com/DetentLabs)
+- [SafeClick](https://safeclick.dev)
+- [My repositories](https://github.com/aaalsharrah?tab=repositories)
+- [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Aaaalsharrah)
+- [My issues](https://github.com/issues?q=is%3Aissue+author%3Aaaalsharrah)
+
+GitHub displays repositories and contributions according to their visibility and your access.
